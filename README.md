@@ -1,11 +1,12 @@
 <img src="512x512.png" align="right" height="100" width="100"/>
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/DIMUTHU-DILZHAN/COLAB-RDP/issues/labels/Colab%20RDP)
+## [COLAB RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/DIMUTHU-DILZHAN/COLAB-RDP/issues/labels/Colab%20RDP)
 
 Colab RDP is used to get **Remote Connection** to Google Colaboratory and use it with graphic user interface which can be used in many ways. It give you high end VM for maximum 12 hours which boost your productivity and you can perform heavy task without any worries.
 
 ### **Some Points:**
- - Don't use username `root`
+ - Don't Change Username Or Password
+ - If You Want To Change Username Don't Use Username `root` 
  - Enter Remote Desktop Headless code
 
 <br />
